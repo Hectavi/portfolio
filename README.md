@@ -8,4 +8,4 @@ Web estática a modo portafolio digital 4 secciones:
 
 Todas las secciones tendrán la misma cabecera, el mismo menú de navegación, el pie y el mismo estilo CSS.
 
-https://portfolio-1f9.pages.dev/
+https://hectavi-portfolio.pages.dev/
